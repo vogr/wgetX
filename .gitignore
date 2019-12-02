@@ -1,0 +1,8 @@
+wgetX
+wgetX.debug
+objects/
+objects.debug/
+
+*.swp
+*.zip
+.DS_Store
